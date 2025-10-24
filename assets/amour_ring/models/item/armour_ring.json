@@ -1,0 +1,8 @@
+{
+  "parent": "amour_ring:custom/armour_ring",
+  "textures": {
+    "0": "amour_ring:block/armour_ring",
+    "1": "amour_ring:block/emblem",
+    "particle": "amour_ring:item/ring"
+  }
+}
